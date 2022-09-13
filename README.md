@@ -1,4 +1,6 @@
-## Sales Insights Data Analysis Project
+# Course Name: Biostatistics [MM61511]
+## Sales visualization and Data Analysis using Tableau - Course Project: Prof. Debashree Guha Adhya   [Jul'22-Aug’22]
+
 
 
 ### Data Analysis Using SQL
